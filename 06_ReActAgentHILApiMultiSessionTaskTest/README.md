@@ -1,5 +1,6 @@
 # 1、介绍
 ## 1.1 主要内容
+涵盖了从基础架构到高级特性的完整实现
 ### 1.1.1 主要功能:
 - 使用FastAPI框架实现对外提供Agent智能体API后端接口服务
 - 使用LangGraph中预置的ReAct架构的Agent
@@ -27,9 +28,9 @@
 ## 1.2 LangGraph介绍 
 LangGraph 是由 LangChain 团队开发的一个开源框架，旨在帮助开发者构建基于大型语言模型（LLM）的复杂、有状态、多主体的应用                
 官方文档:https://langchain-ai.github.io/langgraph/                    
-关于LangGraph大家可以参考如下项目，里面有详细的源码资料和视频分享:                      
-https://github.com/NanGePlus/LangGraphChatBot                      
-https://github.com/NanGePlus/ReActAgentsTest                 
+关于LangGraph可以参考如下项目，里面有详细的源码资料和视频分享:                      
+https://github.com/NanGePlus/LangGraphChatBot
+https://github.com/NanGePlus/ReActAgentsTest
 
 ## 1.3 MCP协议介绍
 MCP官方简介:https://www.anthropic.com/news/model-context-protocol
