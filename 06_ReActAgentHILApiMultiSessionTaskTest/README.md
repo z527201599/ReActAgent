@@ -28,7 +28,7 @@
 ## 1.2 LangGraph介绍 
 LangGraph 是由 LangChain 团队开发的一个开源框架，旨在帮助开发者构建基于大型语言模型（LLM）的复杂、有状态、多主体的应用                
 官方文档:https://langchain-ai.github.io/langgraph/                    
-关于LangGraph可以参考如下项目，里面有详细的源码资料和视频分享:                      
+关于LangGraph已参考如下项目，里面有详细源码资料和视频分享:                      
 https://github.com/NanGePlus/LangGraphChatBot ,
 https://github.com/NanGePlus/ReActAgentsTest 
 
